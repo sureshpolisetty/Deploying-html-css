@@ -1,7 +1,7 @@
 name: deployinghtmlcss #Name of the deployment
 
 on:
-push: #Trigger the workflow when changes are pushed
+ push: #Trigger the workflow when changes are pushed
   branches:
      - main
    jobs: # Any name can be provided
